@@ -10,6 +10,7 @@ The Deep Learning Fundamentals course is a comprehensive exploration of deep lea
 - Visualizations: Charts, graphs, and other data visualizations generated during the analysis and model evaluation stages.
 
 **Course topics:**
+
 Unit 1. Welcome to Machine Learning and Deep Learning
 - Exercise 1: Add early-stopping to make the Perceptron more efficient
 - Exercise 2: Initialize the model parameters with small random numbers instead of 0's
