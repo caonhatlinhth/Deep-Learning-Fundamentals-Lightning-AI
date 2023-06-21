@@ -16,8 +16,8 @@ Unit 1. Welcome to Machine Learning and Deep Learning
 - Exercise 3: Use a learning rate for updating the weights and bias unit
 
 Unit 2. First Steps with PyTorch: Using Tensors
-= Exercise 1: Introducing more PyTorch functions to make your code more efficient
-= Exercise 2: Make the perceptron more efficient using matrix multiplication
+- Exercise 1: Introducing more PyTorch functions to make your code more efficient
+- Exercise 2: Make the perceptron more efficient using matrix multiplication
 
 Unit 3. Model Training in PyTorch 
 - Exercise 1: Banknote Authentication
